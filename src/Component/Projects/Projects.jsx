@@ -28,11 +28,11 @@ export default function Projects({projectsRef}) {
             <img src={numquest} alt="" />
           </div>
           <div className="techs">
-            <FaReact /> <SiTailwindcss /> <SiExpress /> <TbBrandNodejs /> <TbBrandMongodb />
+          <FaHtml5 /> <FaCss3 /> <TbBrandJavascript />
           </div>
           <p>NumQuest</p>
           <div className="btns">
-            <a target="_blank" href="https://flourishing-dasik-b236e2.netlify.app/"><FaLink /> &nbsp;Live</a>
+            <a target="_blank" href="https://num-quest.vercel.app/"><FaLink /> &nbsp;Live</a>
             <a target="_blank" href="https://github.com/vivekguptacoder/NumQuest"><FaGithub /> &nbsp;Github</a>
           </div>
         </div>
@@ -47,7 +47,7 @@ export default function Projects({projectsRef}) {
           </div>
           <p>Personal Portfolio</p>
           <div className="btns">
-            <a target="_blank" href=""><FaLink /> &nbsp;Live</a>
+            <a target="_blank" href="https://vivek-portfolio-lemon.vercel.app/"><FaLink /> &nbsp;Live</a>
             <a target="_blank" href=""><FaGithub /> &nbsp;Github</a>
           </div>
         </div>
